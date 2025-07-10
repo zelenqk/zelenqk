@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @zelenqk
-- 👀 I’m interested in Gamemaker
-- 🌱 I’m currently learning WebDev front end
-- 💞️ I’m looking to collaborate on gamemaker projects
-- ⚡ Fun fact: I hate programming
+Hello stranger
